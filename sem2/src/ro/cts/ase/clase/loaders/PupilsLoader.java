@@ -1,4 +1,4 @@
-package ro.cts.ase.clase.clase.loaders;
+package ro.cts.ase.clase.loaders;
 
 import ro.cts.ase.clase.clase.Aplicant;
 import ro.cts.ase.clase.clase.Elev;
