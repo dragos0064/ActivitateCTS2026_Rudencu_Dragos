@@ -1,0 +1,44 @@
+package ro.ase.cts.lazy;
+
+public class Hotel {
+    private String denumireHotel;
+    private int numarCamere;
+    private int numarCamereInchiriate;
+    private int numarAngajati;
+
+    public void afisareInchiriereCamera(){
+        if(numarCamereInchiriate == numarCamere){
+            System.out.println("Nu mai sunt camere disponibile!");
+        }
+        else{
+            System.out.println("Camera a fost inchiriata cu succes!");
+            numarCamereInchiriate++;
+        }
+
+    }
+
+    public void afisareDescriere(){
+        StringBuilder sb = new StringBuilder();
+        sb.append(denumireHotel);
+        sb.append(numarCamere);
+        sb.append(numarCamereInchiriate);
+        sb.append(numarAngajati);
+        System.out.println(sb.toString());
+    }
+
+    private static Hotel instanta = null;
+
+    private Hotel(String denumireHotel, int numarCamere, int numarAngajati) {
+        this.denumireHotel = denumireHotel;
+        this.numarCamere = numarCamere;
+        this.numarCamereInchiriate = 0;
+        this.numarAngajati = numarAngajati;
+    }
+    //syncronized =>> thread safe
+    public static synchronized Hotel getInstance(String denumire,int nrCamere, int nrAngajati){
+        if(instanta == null){
+            instanta = new Hotel(denumire,nrCamere, nrAngajati);
+        }
+        return instanta;
+    }
+}

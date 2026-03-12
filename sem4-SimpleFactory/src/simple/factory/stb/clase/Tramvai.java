@@ -1,0 +1,12 @@
+package simple.factory.stb.clase;
+
+public class Tramvai extends MijlocTransport{
+
+    public Tramvai(String marca, int linia){
+        super(marca, linia);
+    }
+    @Override
+    public void afisareDescriere() {
+        System.out.println("Tramvai\n"+super.toString());
+    }
+}

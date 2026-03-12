@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem2/sem2.iml" filepath="$PROJECT_DIR$/sem2/sem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" filepath="$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" filepath="$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" filepath="$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" />
     </modules>
   </component>
 </project>
