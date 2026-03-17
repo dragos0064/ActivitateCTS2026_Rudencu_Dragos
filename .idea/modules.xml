@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" filepath="$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" filepath="$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" filepath="$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" filepath="$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" />
     </modules>
   </component>
 </project>
