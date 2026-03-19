@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" filepath="$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" filepath="$PROJECT_DIR$/sem4-Singleton/sem4-Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" filepath="$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem6-FactoryMethod/sem6-FactoryMethod.iml" filepath="$PROJECT_DIR$/sem6-FactoryMethod/sem6-FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem6-Prototype/sem6-Prototype.iml" filepath="$PROJECT_DIR$/sem6-Prototype/sem6-Prototype.iml" />
     </modules>
   </component>
 </project>
