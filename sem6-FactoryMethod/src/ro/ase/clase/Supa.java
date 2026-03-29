@@ -9,5 +9,12 @@ public abstract class Supa implements FelDeMancare{
         this.pret = pret;
     }
 
-    public abstract void afisareDescriere();
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Supa{");
+        sb.append("gramaj=").append(gramaj);
+        sb.append(", pret=").append(pret);
+        sb.append('}');
+        return sb.toString();
+    }
 }
