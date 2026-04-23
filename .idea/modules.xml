@@ -6,10 +6,19 @@
       <module fileurl="file://$PROJECT_DIR$/A2-SimpleFactory/A2-SimpleFactory.iml" filepath="$PROJECT_DIR$/A2-SimpleFactory/A2-SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/A3-FactoryMethod/A3-FactoryMethod.iml" filepath="$PROJECT_DIR$/A3-FactoryMethod/A3-FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/A4-Prototype/A4-Prototype.iml" filepath="$PROJECT_DIR$/A4-Prototype/A4-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2-Builder/B2-Builder.iml" filepath="$PROJECT_DIR$/B2-Builder/B2-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/F1-SimpleFactory/F1-SimpleFactory.iml" filepath="$PROJECT_DIR$/F1-SimpleFactory/F1-SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F2-Prototype/F2-Prototype.iml" filepath="$PROJECT_DIR$/F2-Prototype/F2-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/SUB1/SUB1.iml" filepath="$PROJECT_DIR$/SUB1/SUB1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SUB2/SUB2.iml" filepath="$PROJECT_DIR$/SUB2/SUB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB3/SUB3.iml" filepath="$PROJECT_DIR$/SUB3/SUB3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB4/SUB4.iml" filepath="$PROJECT_DIR$/SUB4/SUB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB5/SUB5.iml" filepath="$PROJECT_DIR$/SUB5/SUB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB6/SUB6.iml" filepath="$PROJECT_DIR$/SUB6/SUB6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB7/SUB7.iml" filepath="$PROJECT_DIR$/SUB7/SUB7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB8/SUB8.iml" filepath="$PROJECT_DIR$/SUB8/SUB8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUB9/SUB9.iml" filepath="$PROJECT_DIR$/SUB9/SUB9.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem2/sem2.iml" filepath="$PROJECT_DIR$/sem2/sem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" filepath="$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" filepath="$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" />
@@ -17,6 +26,8 @@
       <module fileurl="file://$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" filepath="$PROJECT_DIR$/sem5-Builder/sem5-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem6-FactoryMethod/sem6-FactoryMethod.iml" filepath="$PROJECT_DIR$/sem6-FactoryMethod/sem6-FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem6-Prototype/sem6-Prototype.iml" filepath="$PROJECT_DIR$/sem6-Prototype/sem6-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem8-Adaptor/sem8-Adaptor.iml" filepath="$PROJECT_DIR$/sem8-Adaptor/sem8-Adaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem8-Facade/sem8-Facade.iml" filepath="$PROJECT_DIR$/sem8-Facade/sem8-Facade.iml" />
     </modules>
   </component>
 </project>
