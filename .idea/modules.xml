@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/sem10-Composite/sem10-Composite.iml" filepath="$PROJECT_DIR$/sem10-Composite/sem10-Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem10-Decorator/sem10-Decorator.iml" filepath="$PROJECT_DIR$/sem10-Decorator/sem10-Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem10-Strategy/sem10-Strategy.iml" filepath="$PROJECT_DIR$/sem10-Strategy/sem10-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem11-Flyweight/sem11-Flyweight.iml" filepath="$PROJECT_DIR$/sem11-Flyweight/sem11-Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem11-Proxy/sem11-Proxy.iml" filepath="$PROJECT_DIR$/sem11-Proxy/sem11-Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem2/sem2.iml" filepath="$PROJECT_DIR$/sem2/sem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" filepath="$PROJECT_DIR$/sem4-Prototype/sem4-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" filepath="$PROJECT_DIR$/sem4-SimpleFactory/sem4-SimpleFactory.iml" />
