@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/B2-Builder/B2-Builder.iml" filepath="$PROJECT_DIR$/B2-Builder/B2-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/F1-SimpleFactory/F1-SimpleFactory.iml" filepath="$PROJECT_DIR$/F1-SimpleFactory/F1-SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F10-Strategy/F10-Strategy.iml" filepath="$PROJECT_DIR$/F10-Strategy/F10-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F11-Observer/F11-Observer.iml" filepath="$PROJECT_DIR$/F11-Observer/F11-Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F12-COR/F12-COR.iml" filepath="$PROJECT_DIR$/F12-COR/F12-COR.iml" />
       <module fileurl="file://$PROJECT_DIR$/F2-Prototype/F2-Prototype.iml" filepath="$PROJECT_DIR$/F2-Prototype/F2-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/SUB1/SUB1.iml" filepath="$PROJECT_DIR$/SUB1/SUB1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SUB2/SUB2.iml" filepath="$PROJECT_DIR$/SUB2/SUB2.iml" />
